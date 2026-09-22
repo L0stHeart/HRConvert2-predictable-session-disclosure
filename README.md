@@ -19,5 +19,3 @@ I asked for a CVE on 7 August 2026, in the same note as the other HRConvert2 adv
 Local instance of 3.5 only.
 
 Reported privately on 31 July 2026. The vendor published the advisory on 3 August 2026.
-
-L0stHeart
